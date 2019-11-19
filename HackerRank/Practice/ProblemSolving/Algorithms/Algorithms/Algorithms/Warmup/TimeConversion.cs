@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TimeConversion
+namespace Algorithms
 {
-    class Program
+    class TimeConversion
     {
         static string timeConversion(string s)
         {

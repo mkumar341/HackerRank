@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BirthdayCakeCandles
+namespace Algorithms
 {
-    class Program
+    class BirthdayCakeCandles
     {
         static int birthdayCakeCandles(int[] ar)
         {

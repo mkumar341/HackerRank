@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Min_Max_Sum
+namespace Algorithms
 {
-    class Program
+    class MinMaxSum
     {
         // Complete the miniMaxSum function below.
         static void miniMaxSum(int[] arr)
